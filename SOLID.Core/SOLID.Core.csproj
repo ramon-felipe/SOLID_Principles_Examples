@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SOLID.Common\SOLID.Common.csproj" />
+    <ProjectReference Include="..\SOLID.DIP\SOLID.DIP.csproj" />
+    <ProjectReference Include="..\SOLID.ISP\SOLID.ISP.csproj" />
+    <ProjectReference Include="..\SOLID.LSP\SOLID.LSP.csproj" />
+    <ProjectReference Include="..\SOLID.OCP\SOLID.OCP.csproj" />
+    <ProjectReference Include="..\SOLID.SRP\SOLID.SRP.csproj" />
+  </ItemGroup>
+
+</Project>
