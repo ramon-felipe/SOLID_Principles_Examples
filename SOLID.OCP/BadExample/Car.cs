@@ -2,7 +2,7 @@
 using SOLID.Common;
 using System;
 
-namespace SOLID.OCR.BadExample
+namespace SOLID.OCP.BadExample
 {
     public class Car
     {

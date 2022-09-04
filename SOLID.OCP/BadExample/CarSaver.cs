@@ -1,6 +1,6 @@
 ﻿using SOLID.common;
 
-namespace SOLID.OCR.BadExample
+namespace SOLID.OCP.BadExample
 {
     public class CarSaver
     {
